@@ -30,7 +30,7 @@ Estas tarjetas detectan automáticamente el tema oscuro de tu perfil:
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[TU_USUARIO]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[TU_USUARIO]&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[LittleKingPlaysHN]&layout=compact&langs_count=7&theme=tokyonight"/>
 </p>
 
 ---
@@ -44,5 +44,5 @@ Estas tarjetas detectan automáticamente el tema oscuro de tu perfil:
 
 ---
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[TU_USUARIO]&label=Profile%20views&color=0e75b6&style=flat" alt="vistas" />
+  <img src="https://komarev.com/ghpvc/?username=[LittleKingPlaysHN]&label=Profile%20views&color=0e75b6&style=flat" alt="vistas" />
 </p>
