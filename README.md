@@ -51,8 +51,12 @@
   <img src="https://lynobot.wordpress.com/wp-content/uploads/2026/01/tumblr_e3d44cf6c5a5152d7896790cedc7fa4e_4c81da6c_640.png" width="100%">
 </p>
 
+<h2 align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/L1SXP6vshO4pXpX0X0/giphy.gif" width="35"> 
+  Conéctate conmigo
+</h2>
+
 <p align="center">
-## Conéctate conmigo
   <a href="https://twitter.com/LittleKingPlaysHN" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%23000000.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
