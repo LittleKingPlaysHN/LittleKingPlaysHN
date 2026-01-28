@@ -2,7 +2,7 @@
 # Hola! Soy LittleKingPlaysHN 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=33103e&height=250&section=header&text=Hi,%20I'm%20LittleKingPlaysHN&fontSize=50&animation=fadeIn&fontAlignY=45&theme=dark" />
+  <img src="[https://capsule-render.vercel.app/render?type=soft&color=33103e&height=250&section=header&text=Hi,%20I'm%20LittleKingPlaysHN&fontSize=50&animation=fadeIn&fontAlignY=45&theme=dark](https://lynobot.wordpress.com/wp-content/uploads/2025/11/giphy-1.gif)" />
 </p>
 
 <p align="center">
