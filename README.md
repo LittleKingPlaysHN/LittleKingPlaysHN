@@ -17,7 +17,7 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/WUlX8DRE8nJ59s7gXz/giphy.gif" width="30"> Technology Stack
+## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGdoZ3d6bHB1bmdyZHd6ODU5dG0yY2lzNm9vc2htZzVydmJlMXh0aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/E13azOwp3Djg6JOCsd/giphy.gif" width="30"> Technology Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
@@ -33,7 +33,7 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/Qss04o62b9m8+N2C6C/giphy.gif" width="30"> My Github Stats
+## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGdoZ3d6bHB1bmdyZHd6ODU5dG0yY2lzNm9vc2htZzVydmJlMXh0aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/E13azOwp3Djg6JOCsd/giphy.gif" width="30"> My Github Stats
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=LittleKingPlaysHN&show_icons=true&theme=radical&rank_icon=github" />
