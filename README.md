@@ -14,7 +14,9 @@
   <strong>Apasionado por los videojuegos y el desarrollo. Creando experiencias digitales desde Honduras para el mundo.</strong>
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+</p>
 
 ## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGdoZ3d6bHB1bmdyZHd6ODU5dG0yY2lzNm9vc2htZzVydmJlMXh0aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/E13azOwp3Djg6JOCsd/giphy.gif" width="30"> Technology Stack
 
@@ -30,7 +32,9 @@
   <img src="https://img.shields.io/badge/git-%23000000.svg?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+</p>
 
 ## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGdoZ3d6bHB1bmdyZHd6ODU5dG0yY2lzNm9vc2htZzVydmJlMXh0aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/E13azOwp3Djg6JOCsd/giphy.gif" width="30"> My Github Stats
 
@@ -42,7 +46,6 @@
 <p align="center">
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=LittleKingPlaysHN&theme=dark&background=000000&border=333333&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff" />
 </p>
----
 
 ## 🌐 Conéctate conmigo
 <p align="center">
