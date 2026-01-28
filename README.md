@@ -1,48 +1,53 @@
-# Hola! Soy [Tu Nombre] 👋
+
+# Hola! Soy LittleKingPlaysHN 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Fullstack%20Developer&fontSize=70&animation=fadeIn&theme=dark" />
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=33103e&height=250&section=header&text=Hi,%20I'm%20LittleKingPlaysHN&fontSize=50&animation=fadeIn&fontAlignY=45&theme=dark" />
 </p>
 
-## 🚀 Sobre mí
-Soy un apasionado del desarrollo de software enfocado en crear soluciones elegantes y eficientes. Actualmente estoy trabajando en **[Proyecto Actual]** y aprendiendo **[Tecnología Nueva]**.
-
-* 🔭 **Actualmente:** Trabajando en ...
-* 🌱 **Aprendiendo:** ...
-* 💬 **Pregúntame sobre:** React, Node o cualquier cosa de Tech.
-* 📫 **Contacto:** [tuemail@ejemplo.com]
-
----
-
-## 🛠️ Tecnologías y Herramientas
-Aquí uso un estilo de "Badges" planos que se ven geniales en modo oscuro:
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Nodejs](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
----
-
-## 📊 Estadísticas de GitHub
-Estas tarjetas detectan automáticamente el tema oscuro de tu perfil:
+<p align="center">
+  <img src="https://img.shields.io/badge/Visits-000?style=flat-square&logo=ghostery&logoColor=white&labelColor=4c1d95" />
+  <img src="https://img.shields.io/badge/Repos-000?style=flat-square&logo=github&logoColor=white&labelColor=16a34a" />
+  <img src="https://img.shields.io/badge/Commits_this_month-000?style=flat-square&logo=git&logoColor=white&labelColor=2563eb" />
+</p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[TU_USUARIO]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[LittleKingPlaysHN]&layout=compact&langs_count=7&theme=tokyonight"/>
+  🚀 Apasionado por los videojuegos y el desarrollo. Creando experiencias digitales desde Honduras para el mundo. 🎮
+</p>
+
+---
+
+## <img src="https://media.giphy.com/media/WUlX8DRE8nJ59s7gXz/giphy.gif" width="30"> Technology Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
+## <img src="https://media.giphy.com/media/Qss04o62b9m8+N2C6C/giphy.gif" width="30"> My Github Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=LittleKingPlaysHN&show_icons=true&theme=radical&rank_icon=github" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LittleKingPlaysHN&layout=compact&theme=radical" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=LittleKingPlaysHN&theme=radical" />
 </p>
 
 ---
 
 ## 🌐 Conéctate conmigo
-<p align="left">
-<a href="https://linkedin.com/in/[TU_LINKEDIN]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://twitter.com/[TU_TWITTER]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-<a href="https://instagram.com/[TU_INSTAGRAM]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-</p>
-
----
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[LittleKingPlaysHN]&label=Profile%20views&color=0e75b6&style=flat" alt="vistas" />
+<a href="https://twitter.com/LittleKingPlaysHN"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://linkedin.com/in/LittleKingPlaysHN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
