@@ -52,7 +52,7 @@
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=LittleKingPlaysHN&theme=dark&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&border=333333" />
+  <img width="100%" src="https://streak-stats.demolab.com/?user=LittleKingPlaysHN&theme=dark&background=000000&fire=ffffff&ring=ffffff&currStreakNum=ffffff&border=333333&v=2" />
 </p>
 
 <p align="center">
