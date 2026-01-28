@@ -21,7 +21,7 @@
 </p>
 
 <h2 align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGdoZ3d6bHB1bmdyZHd6ODU5dG0yY2lzNm9vc2htZzVydmJlMXh0aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/E13azOwp3Djg6JOCsd/giphy.gif" width="30"> 
+  <img src="https://lynobot.wordpress.com/wp-content/uploads/2026/01/diamond.gif" width="30"> 
   Technology Stack
 </h2>
 
@@ -42,7 +42,7 @@
 </p>
 
 <h2 align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGdoZ3d6bHB1bmdyZHd6ODU5dG0yY2lzNm9vc2htZzVydmJlMXh0aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/E13azOwp3Djg6JOCsd/giphy.gif" width="30"> 
+  <img src="https://lynobot.wordpress.com/wp-content/uploads/2026/01/diamond.gif" width="30"> 
   My Github Stats
 </h2>
 
@@ -60,7 +60,7 @@
 </p>
 
 <h2 align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/L1SXP6vshO4pXpX0X0/giphy.gif" width="35"> 
+  <img src="https://lynobot.wordpress.com/wp-content/uploads/2026/01/diamond.gif" width="35"> 
   Conéctate conmigo
 </h2>
 
