@@ -52,7 +52,7 @@
 </p>
 
 <p align="center">
-  <img width="100%" src="https://streak-stats.demolab.com/?user=LittleKingPlaysHN&theme=dark&background=000000&fire=ffffff&ring=ffffff&currStreakNum=ffffff&border=333333&id=FINAL_STYLE_v1" />
+  <img width="100%" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXN5eTMzaHR2MzM3ZWpjcDlwaTFxYXpvcDVkNno1ZnZiZmdkdGY2dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/q2b0k36hxU1IA/giphy.gif" />
 </p>
 
 <p align="center">
