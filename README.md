@@ -33,7 +33,7 @@
 </p>
 
 <p align="center">
-  <img src="https://lynobot.wordpress.com/wp-content/uploads/2026/01/image.png" width="100%">
+  <img src="https://lynobot.wordpress.com/wp-content/uploads/2026/01/tumblr_e3d44cf6c5a5152d7896790cedc7fa4e_4c81da6c_640.png" width="100%">
 </p>
 
 ## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGdoZ3d6bHB1bmdyZHd6ODU5dG0yY2lzNm9vc2htZzVydmJlMXh0aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/E13azOwp3Djg6JOCsd/giphy.gif" width="30"> My Github Stats
@@ -48,11 +48,15 @@
 </p>
 
 <p align="center">
-  <img src="https://lynobot.wordpress.com/wp-content/uploads/2026/01/image.png" width="100%">
+  <img src="https://lynobot.wordpress.com/wp-content/uploads/2026/01/tumblr_e3d44cf6c5a5152d7896790cedc7fa4e_4c81da6c_640.png" width="100%">
 </p>
 
-## 🌐 Conéctate conmigo
 <p align="center">
-<a href="https://twitter.com/LittleKingPlaysHN"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-<a href="https://linkedin.com/in/LittleKingPlaysHN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+## Conéctate conmigo
+  <a href="https://twitter.com/LittleKingPlaysHN" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%23000000.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://linkedin.com/in/LittleKingPlaysHN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
