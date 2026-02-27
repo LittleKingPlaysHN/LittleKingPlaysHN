@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <strong>Apasionado por los videojuegos y el desarrollo. Creando experiencias digitales desde Honduras para el mundo.</strong>
+  <strong>Apasionado por los videojuegos y el desarrollo. Creando experiencias digitales desde Honduras para el mundo :0.</strong>
 </p>
 
 <p align="center">
