@@ -41,7 +41,6 @@
 </p>
 
 <h2 align="center">
-  <img src="https://lynobot.wordpress.com/wp-content/uploads/2026/01/diamond.gif" width="30"> 
   Estadisticas
 </h2>
 
@@ -59,7 +58,7 @@
 </p>
 
 <h2 align="center">
-  <img src="https://lynobot.wordpress.com/wp-content/uploads/2026/01/diamond.gif" width="35"> 
+
   Contactame
 </h2>
 
