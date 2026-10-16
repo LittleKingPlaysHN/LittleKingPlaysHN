@@ -1,9 +1,9 @@
 <p align="center">
-  <h1 align="center">Hola! Soy LittleKingPlaysHN 🦇</h1>
+  <h1 align="center">Hola! Soy @tokiio 🦇</h1>
 </p>
 
 <p align="center">
-  <img src="https://lynobot.wordpress.com/wp-content/uploads/2025/11/giphy-1.gif" width="100%" />
+  <img src="https://lynobot.wordpress.com/wp-content/uploads/2026/10/1.jpg" width="100%" />
 </p>
 
 <p align="center">
