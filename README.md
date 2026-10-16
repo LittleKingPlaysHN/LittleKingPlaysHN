@@ -22,7 +22,7 @@
 
 <h2 align="center">
   <img src="https://lynobot.wordpress.com/wp-content/uploads/2026/01/diamond.gif" width="30"> 
-  Technology Stack
+  Tecnologías
 </h2>
 
 <p align="center">
@@ -43,7 +43,7 @@
 
 <h2 align="center">
   <img src="https://lynobot.wordpress.com/wp-content/uploads/2026/01/diamond.gif" width="30"> 
-  My Github Stats
+  Estadisticas
 </h2>
 
 <p align="center">
@@ -61,14 +61,14 @@
 
 <h2 align="center">
   <img src="https://lynobot.wordpress.com/wp-content/uploads/2026/01/diamond.gif" width="35"> 
-  Conéctate conmigo
+  Contactame
 </h2>
 
 <p align="center">
-  <a href="https://twitter.com/LittleKingPlaysHN" target="_blank">
+  <a href="https://tokiio.cat" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%23000000.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="https://linkedin.com/in/LittleKingPlaysHN" target="_blank">
+  <a href="https://tokio.cat" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
