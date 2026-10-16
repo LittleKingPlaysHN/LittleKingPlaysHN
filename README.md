@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img src="https://lynobot.wordpress.com/wp-content/uploads/2026/01/tumblr_e3d44cf6c5a5152d7896790cedc7fa4e_4c81da6c_640.png" width="100%">
+  <img src="https://lynobot.wordpress.com/wp-content/uploads/2026/10/3.png" width="100%">
 </p>
 
 <h2 align="center">
@@ -37,7 +37,7 @@
 </p>
 
 <p align="center">
-  <img src="https://lynobot.wordpress.com/wp-content/uploads/2026/01/tumblr_e3d44cf6c5a5152d7896790cedc7fa4e_4c81da6c_640.png" width="100%">
+  <img src="https://lynobot.wordpress.com/wp-content/uploads/2026/10/3.png" width="100%">
 </p>
 
 <h2 align="center">
@@ -53,6 +53,9 @@
   <img src="https://lynobot.wordpress.com/wp-content/uploads/2026/10/2.jpg" width="100%">
 </p>
 
+<p align="center">
+  <img src="https://lynobot.wordpress.com/wp-content/uploads/2026/10/3.png" width="100%">
+</p>
 <h2 align="center">
 
   Contactame
