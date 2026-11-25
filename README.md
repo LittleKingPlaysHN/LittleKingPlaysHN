@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://lynobot.wordpress.com/wp-content/uploads/2026/10/1.jpg" width="100%" />
+  <img src="https://sampkingmobile.wordpress.com/wp-content/uploads/2026/11/banner.jpg" width="100%" />
 </p>
 
 <p align="center">
