@@ -50,10 +50,6 @@
 </p>
 
 <p align="center">
-  <img src="https://lynobot.wordpress.com/wp-content/uploads/2026/10/2.jpg" width="100%">
-</p>
-
-<p align="center">
   <img src="https://lynobot.wordpress.com/wp-content/uploads/2026/10/3.png" width="100%">
 </p>
 <h2 align="center">
